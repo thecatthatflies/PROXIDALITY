@@ -1,4 +1,4 @@
-# PROXIDALITY - Your Own Linked Proxy via NightProxy's Space
+# PROXIDALITY - create your OWN proxy, backed by NightProxy's Space
 
 **PROXIDALITY** lets you host your own proxy using GitHub Codespaces and NightProxy’s Space project. Fast, secure, and customizable.
 
