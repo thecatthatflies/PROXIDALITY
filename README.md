@@ -26,16 +26,17 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
 
 1. **Fork the Repository**
 
-   Go to [https://github.com/NightProxy/space](https://github.com/NightProxy/space) and click the **Fork** button in the top-right corner.
+   - Go to [https://github.com/NightProxy/space](https://github.com/NightProxy/space) and click the **Fork** button in the top-right corner.
+   - Make sure to **uncheck** the option to **only copy the ***main*** branch**.
 
-2. **Create a Codespace**
+3. **Create a Codespace**
 
    - On your forked repo page, click the green **Code** button.
    - Select the **Codespaces** tab.
    - Click **the three dots** and then **"New with options"**.
    - Choose the **4-core processor** option for **MAXIMUM** performance. Otherwise, simply click the **Create codespace** button without tweaking any setting/options.
 
-3. **Start the Proxy**
+4. **Start the Proxy**
 
    Inside your Codespace terminal (once it loads), **right-click and paste** the following commands all at once:
 
@@ -46,7 +47,7 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
    pnpm start
    ```
 
-4. **Launch the Proxy**
+5. **Launch the Proxy**
 
    Once the terminal shows the **Space logo** and a message saying it's ready:
    
