@@ -18,6 +18,7 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
 ## ⚙️ Requirements
 
 > A GitHub account
+
 > Browser with JavaScript enabled
 
 ---
