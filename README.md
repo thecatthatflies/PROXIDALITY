@@ -18,7 +18,6 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
 ## ⚙️ Requirements
 
 - A GitHub account
-- Access to GitHub Codespaces (check your plan)
 - Browser with JavaScript enabled
 
 ---
@@ -33,8 +32,8 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
 
    - On your forked repo page, click the green **Code** button.
    - Select the **Codespaces** tab.
-   - Click **New codespace**.
-   - Choose **4-core processor** and **16GB RAM** (under “Options” if available).
+   - Click **the three dots** and then **"New with options"**.
+   - Choose the **4-core processor** option for **MAXIMUM** performance. Otherwise, simply click the **Create codespace** button without tweaking any setting/options.
 
 3. **Start the Proxy**
 
@@ -51,17 +50,18 @@ Use responsibly and respect all terms and conditions of GitHub, your school netw
 
    Once the terminal shows the **Space logo** and a message saying it's ready:
    
-   - Click the **"Open in Browser"** button in the bottom-right corner of the Codespace window.
+   - Click the **"Open in Browser"** button on the notification that will pop-up. If you miss the notification, then click the **PORTS** option , then click the link next to the port.
    - Your proxy is now live!
 
 ---
 
+# ⚠️ IMPORTANT
 ## 💤 When You're Done
 
 To avoid using up your GitHub Codespace hours:
 
 1. Go to your [GitHub Dashboard](https://github.com).
-2. Click your forked repository name on the left panel.
+2. Click your **repository name** on the left panel.
 3. Click the green **Code** button → **Codespaces**.
 4. Click the **three dots** next to your Codespace → **Stop Codespace**.
 
